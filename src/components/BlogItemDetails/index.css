@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.av {
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.di {
+  display: flex;
+}
+.ii {
+  width: 500px;
+  height: 250px;
+}
+.hhs {
+  font-size: 16px;
+}
+.ccc {
+  margin: 10px;
+}

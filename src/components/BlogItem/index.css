@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.img {
+  width: 200px;
+  height: 150px;
+}
+.ul {
+  list-style-type: none;
+}
+.avaimg {
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+.h {
+  font-size: 16px;
+}
+.aa {
+  display: flex;
+}
+.main {
+  display: flex;
+  margin: 15px;
+}
+.right {
+  margin: 10px;
+  margin-top: 0px;
+}
+.link {
+  text-decoration: none;
+}
